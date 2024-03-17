@@ -43,7 +43,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(176, 166, 166);
+    color: rgb(255, 244, 244);
     text-decoration: none;
     font-size: 20px;
     font-weight: bold;
@@ -382,11 +382,11 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url("background.jpg");
+        background-image: url("pic1.jpg");
 
     }
     .header-text{
-        margin-top: 100%;
+        margin-top: 50%;
         font-size: 16px;
     }
     .header-text h1{
@@ -398,7 +398,7 @@ nav .fa-solid{
     
     }
     nav ul{
-        background: #ff004f;
+        /* background: #ff004f; */
         position: fixed;
         top: 0;
         right: -200px;
